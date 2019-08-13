@@ -14,7 +14,7 @@ You can edit this file at **`[ ../src/app/app-config.ts ]`**
 | **subLayout** | - | String | `horizontal-2` \(only used for layout is horizontal\) |
 | **collapseMenu** | false | Boolean | `true`, `false` |
 | **layoutType** | menu-light | String | `menu-dark`, `menu-light`, `dark` |
-| **headerBackColor** | background-blue | String | `backgorund-blue`, `backgorund-red`, `backgorund-purple`, `backgorund-info`, `backgorund-green`, `backgorund-dark`, `backgorund-grd-blue`, `backgorund-grd-red`, `backgorund-grd-purple`, `backgorund-grd-info`, `backgorund-grd-green`, `backgorund-grd-dark`, `backgorund-img-1`, `backgorund-img-2`, `backgorund-img-3`, `backgorund-img-4`, `backgorund-img-5`, `backgorund-img-6` |
+| **headerBackColor** | background-blue | String | `background-blue`, `background-red`, `background-purple`, `background-info`, `background-green`, `background-dark`, `background-grd-blue`, `background-grd-red`, `background-grd-purple,` `background-grd-info`, `background-grd-green`, `background-grd-dark`, `background-img-1`, `background-img-2`, `background-img-3`, `background-img-4`, `background-img-5`, `background-img-6` |
 | **rtlLayout** | false | Boolean | `true`, `false` |
 | **navFixedLayout** | false | Boolean | `true`, `false` |
 | **headerFixedLayout** | false | Boolean | `true`, `false` |
@@ -29,7 +29,7 @@ export class AbleProConfig {
     subLayout: '', // horizontal-2
     collapseMenu: false,
     layoutType: 'menu-light', // menu-dark, menu-light, dark
-    headerBackColor: 'header-blue', // backgorund-blue, backgorund-red, backgorund-purple, backgorund-info, backgorund-green, backgorund-dark, backgorund-grd-blue, backgorund-grd-red, backgorund-grd-purple, backgorund-grd-info, backgorund-grd-green, backgorund-grd-dark, backgorund-img-1, backgorund-img-2, backgorund-img-3, backgorund-img-4, backgorund-img-5, backgorund-img-6
+    headerBackColor: 'header-blue', // background-blue, background-red, background-purple, background-info, background-green, background-dark, background-grd-blue, background-grd-red, background-grd-purple, background-grd-info, background-grd-green, background-grd-dark, background-img-1, background-img-2, background-img-3, background-img-4, background-img-5, background-img-6
     rtlLayout: false,
     navFixedLayout: false,
     headerFixedLayout: false,

@@ -10,12 +10,12 @@ You can edit this file at **`[ ../src/app/app-config.ts ]`**
 
 | **Option** | **Default** | **Data Type** | **Description** |
 | :--- | :--- | :--- | :--- |
-| **layout** | vertical | String |  `vertical`, `horizontal` |
+| **layout** | vertical | String | `vertical`, `horizontal` |
 | **subLayout** | - | String | `horizontal-2` \(only used for layout is horizontal\) |
 | **collapseMenu** | false | Boolean | `true`, `false` |
-| **layoutType** | menu-dark | String |  `menu-dark`, `menu-light`, `dark` |
+| **layoutType** | menu-dark | String | `menu-dark`, `menu-light`, `dark` |
 | **headerBackColor** | header-default | String | `header-default`, `header-blue`, `header-red`, `header-purple`, `header-info`, `header-dark` |
-| **navBrandColor** | brand-default | String |  `navbar-default`, `navbar-blue`, `navbar-red`, `navbar-purple`, `navbar-info`, `navbar-dark` |
+| **navBrandColor** | brand-default | String | `navbar-default`, `navbar-blue`, `navbar-red`, `navbar-purple`, `navbar-info`, `navbar-dark` |
 | **rtlLayout** | false | Boolean | `true`, `false` |
 | **navFixedLayout** | true | Boolean | `true`, `false` |
 | **headerFixedLayout** | true | Boolean | `true`, `false` |
@@ -41,6 +41,4 @@ export class NextroConfig {
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
-
-
 

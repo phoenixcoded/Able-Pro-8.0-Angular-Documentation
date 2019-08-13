@@ -1,14 +1,14 @@
 ---
-description: Nextro - Angular Admin Template Documentation
+description: Able Pro - Angular Admin Template Documentation
 ---
 
 # Introduction
 
 **Nextro** admin template is **Angular 8+ & Bootstrap 4+ Admin Template** which comes with variety feature. Nextro is not an ordinary admin panel template - It has lots of pre-define functionality which completely ready for any complex projects!!
 
-**Author** : Phoenixcoded 
+**Author** : Phoenixcoded
 
-## Features 
+## Features
 
 * Fully Responsive Layout 
 * 2 Dashboard, 400+ Widget Cards

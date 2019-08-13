@@ -19,7 +19,7 @@ description: Able Pro - Angular Admin Template Documentation
 * Live Menu Customize
 * 6 months of free support included
 * Easy to Build and Setup
-* Clear Cut Code style
+* Clear Cut Code style 
 
 ## Specification
 

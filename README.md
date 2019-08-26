@@ -23,7 +23,7 @@ description: Able Pro - Angular Admin Template Documentation
 
 ## Specification
 
-* [Angular CLI](https://cli.angular.io/) 8.2.0
+* [Angular CLI](https://cli.angular.io/) 8.3.0
 * Latest [Bootstrap](https://getbootstrap.com/) 4 Stable \(v4.3.1\)
 * [SASS ](https://sass-lang.com)Powered
 * [NodeJs](https://nodejs.org/en/) \(v12.x.x\)

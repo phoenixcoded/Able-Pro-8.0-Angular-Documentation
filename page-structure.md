@@ -6,7 +6,7 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>Able Pro | Welcome To Angular 8+ Bootstrap Design Admin Template </title>
+        <title>Able Pro | Welcome To Angular 10+ Bootstrap Design Admin Template </title>
         <!-- HTML5 Shim and Respond.js IE11 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
         <!--[if lt IE 11]>

@@ -10,7 +10,7 @@ They are configured and hidden so that you can focus on the code.
 {% endhint %}
 
 1. First of all it's required to Install [Node](https://nodejs.org/en/) and npm.
-2. Update latest [angular-cli](https://cli.angular.io/) global package to Angular 8+ with cli 8.x.x
+2. Update latest [angular-cli](https://cli.angular.io/) global package to Angular 10+ with cli 10.x.x
 3. Unzip **able-pro.zip** file, you will find the `able-pro/template/skeleton/`project folder. 
 4. Open your favorite console/terminal and navigate to the `skeleton/`folder and **Install packages**
 
